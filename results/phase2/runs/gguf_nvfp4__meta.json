@@ -1,0 +1,11 @@
+{
+ "weights": "NVFP4",
+ "kv": "f16",
+ "gguf_file_gb": 2.304,
+ "peak_mem_gb": 2.997,
+ "llama_commit": "d327bf1f0780f87b8c01b367b61853b0c291d7c4",
+ "model_buf_gb": 2.296,
+ "kv_buf_gb": 0.5,
+ "compute_buf_gb": 0.074,
+ "kv_cache_log": "llama_kv_cache: size =  512.00 MiB (  4096 cells,  32 layers,  1/1 seqs), K (f16):  256.00 MiB, V (f16):  256.00 MiB"
+}

@@ -1,0 +1,13 @@
+{
+ "allocated_after_load_gb": 2.693,
+ "lm_head_tied_to_embedding": true,
+ "bytes_by_kind_gb": {
+  "linear_4bit_packed": 1.5,
+  "embedding": 1.145,
+  "nf4_scales": 0.048,
+  "other_float16": 0.0,
+  "buffers": 0.0
+ },
+ "sum_of_tensors_gb": 2.693,
+ "transformers": "5.20.2"
+}

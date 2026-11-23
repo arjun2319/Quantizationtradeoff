@@ -1,0 +1,7 @@
+variant,task,accuracy_pct,tokens_per_sec,peak_mem_gb,n_questions
+fp16,gsm8k,86.5,19.9,7.28,200
+fp16,mmlu,65.5,18.2,7.34,200
+bnb_8bit,gsm8k,90.0,8.9,4.28,200
+bnb_8bit,mmlu,65.0,8.8,4.36,200
+bnb_nf4,gsm8k,85.0,15.2,5.48,200
+bnb_nf4,mmlu,58.0,13.6,5.48,200

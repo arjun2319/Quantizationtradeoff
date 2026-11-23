@@ -1,0 +1,10 @@
+{"idx": 0, "gold": "A", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.8221752643585205, "subject": "college_physics", "output": "Answer: D"}
+{"idx": 1, "gold": "B", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.7059669494628906, "subject": "anatomy", "output": "Answer: A"}
+{"idx": 2, "gold": "C", "pred": "C", "correct": true, "n_tokens": 24, "wall_s": 3.0310399532318115, "subject": "high_school_statistics", "output": "Answer: C. The number of successes and the number of failures for the two groups are not all large enough."}
+{"idx": 3, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.6099379062652588, "subject": "miscellaneous", "output": "Answer: C"}
+{"idx": 4, "gold": "A", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.7212855815887451, "subject": "prehistory", "output": "Answer: B"}
+{"idx": 5, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 1.356870412826538, "subject": "security_studies", "output": "Answer: C"}
+{"idx": 6, "gold": "B", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.6056187152862549, "subject": "conceptual_physics", "output": "Answer: A"}
+{"idx": 7, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.6043300628662109, "subject": "marketing", "output": "Answer: C"}
+{"idx": 8, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 1.1358144283294678, "subject": "professional_law", "output": "Answer: B"}
+{"idx": 9, "gold": "B", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.6305208206176758, "subject": "jurisprudence", "output": "Answer: D"}

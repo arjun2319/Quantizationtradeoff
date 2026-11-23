@@ -1,0 +1,200 @@
+{"idx": 0, "gold": "A", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.33550167083740234, "subject": "college_physics", "output": "Answer: B"}
+{"idx": 1, "gold": "B", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.32776856422424316, "subject": "anatomy", "output": "Answer: C"}
+{"idx": 2, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.34616565704345703, "subject": "high_school_statistics", "output": "Answer: C"}
+{"idx": 3, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.3214297294616699, "subject": "miscellaneous", "output": "Answer: C"}
+{"idx": 4, "gold": "A", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.336437463760376, "subject": "prehistory", "output": "Answer: B"}
+{"idx": 5, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.4175248146057129, "subject": "security_studies", "output": "Answer: C"}
+{"idx": 6, "gold": "B", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.3029961585998535, "subject": "conceptual_physics", "output": "Answer: A"}
+{"idx": 7, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.3224027156829834, "subject": "marketing", "output": "Answer: C"}
+{"idx": 8, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3684732913970947, "subject": "professional_law", "output": "Answer: B"}
+{"idx": 9, "gold": "B", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.3021070957183838, "subject": "jurisprudence", "output": "Answer: D"}
+{"idx": 10, "gold": "A", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6519656181335449, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 11, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3055422306060791, "subject": "public_relations", "output": "Answer: B"}
+{"idx": 12, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.2650594711303711, "subject": "jurisprudence", "output": "Answer: D"}
+{"idx": 13, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.31664037704467773, "subject": "management", "output": "Answer: B"}
+{"idx": 14, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.33356690406799316, "subject": "public_relations", "output": "Answer: B"}
+{"idx": 15, "gold": "A", "pred": "C", "correct": false, "n_tokens": 21, "wall_s": 1.5133261680603027, "subject": "professional_law", "output": "Answer: C. Yes, because the bank's loan modification was made without the mother's prior consent."}
+{"idx": 16, "gold": "C", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.30677342414855957, "subject": "college_physics", "output": "Answer: A"}
+{"idx": 17, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.30524230003356934, "subject": "professional_psychology", "output": "Answer: C"}
+{"idx": 18, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.4169952869415283, "subject": "professional_law", "output": "Answer: C"}
+{"idx": 19, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3065218925476074, "subject": "marketing", "output": "Answer: B"}
+{"idx": 20, "gold": "C", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.3087456226348877, "subject": "high_school_psychology", "output": "Answer: D"}
+{"idx": 21, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.5199239253997803, "subject": "high_school_us_history", "output": "Answer: B"}
+{"idx": 22, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3099668025970459, "subject": "professional_law", "output": "Answer: A"}
+{"idx": 23, "gold": "D", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3018794059753418, "subject": "prehistory", "output": "Answer: B"}
+{"idx": 24, "gold": "D", "pred": "D", "correct": true, "n_tokens": 8, "wall_s": 0.5619447231292725, "subject": "high_school_psychology", "output": "Answer: D. rational emotive"}
+{"idx": 25, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.30313801765441895, "subject": "us_foreign_policy", "output": "Answer: A"}
+{"idx": 26, "gold": "B", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.31285643577575684, "subject": "business_ethics", "output": "Answer: A"}
+{"idx": 27, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.4876234531402588, "subject": "high_school_us_history", "output": "Answer: A"}
+{"idx": 28, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.46195435523986816, "subject": "high_school_european_history", "output": "Answer: A"}
+{"idx": 29, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.33470678329467773, "subject": "high_school_chemistry", "output": "Answer: C"}
+{"idx": 30, "gold": "B", "pred": "A", "correct": false, "n_tokens": 43, "wall_s": 2.856489419937134, "subject": "professional_law", "output": "Answer: B. The statute violates the Fourteenth Amendment by conditioning the availability of public funds upon the recipient's agreement to act in a way that makes more difficult the exercise by others of their fundamental constitutional rights."}
+{"idx": 31, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.3417818546295166, "subject": "college_physics", "output": "Answer: C"}
+{"idx": 32, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.33179640769958496, "subject": "high_school_psychology", "output": "Answer: D"}
+{"idx": 33, "gold": "C", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.30592966079711914, "subject": "high_school_macroeconomics", "output": "Answer: D"}
+{"idx": 34, "gold": "D", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.30610060691833496, "subject": "moral_disputes", "output": "Answer: B"}
+{"idx": 35, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3069784641265869, "subject": "high_school_computer_science", "output": "Answer: D"}
+{"idx": 36, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.32491493225097656, "subject": "professional_medicine", "output": "Answer: D"}
+{"idx": 37, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3026242256164551, "subject": "elementary_mathematics", "output": "Answer: B"}
+{"idx": 38, "gold": "C", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.3383297920227051, "subject": "high_school_chemistry", "output": "Answer: A"}
+{"idx": 39, "gold": "A", "pred": "A", "correct": true, "n_tokens": 451, "wall_s": 27.79253387451172, "subject": "high_school_mathematics", "output": "To determine how many terms in the expansion of \\((m+n)^6\\) are odd, we first need to understand the binomial expansion formula:\n\n\\[\n(m+n)^6 = \\sum_{k=0}^{6} \\binom{6}{k} m^{6-k} n^k\n\\]\n\nEach term in the expansion is of the form \\(\\binom{6}{k} m^{6-k} n^k\\). Since \\(m\\) and \\(n\\) are odd integers, we know that any power of an odd integer remains odd. Therefore, \\(m^{6-k}\\) and \\(n^k\\) are both odd for any integer \\(k\\).\n\nNext, we need to determine the parity (odd/even) of the binomial coefficients \\(\\binom{6}{k}\\). The binomial coefficients for \\(k = 0, 1, 2, 3, 4, 5, 6\\) are:\n\n\\[\n\\binom{6}{0} = 1, \\quad \\binom{6}{1} = 6, \\quad \\binom{6}{2} = 15, \\quad \\binom{6}{3} = 20, \\quad \\binom{6}{4} = 15, \\quad \\binom{6}{5} = 6, \\quad \\binom{6}{6} = 1\n\\]\n\nAmong these coefficients, the odd ones are \\(\\binom{6}{0}\\), \\(\\binom{6}{2}\\), \\(\\binom{6}{4}\\), and \\(\\binom{6}{6}\\). These correspond to \\(k = 0, 2, 4, 6\\).\n\nThus, there are 4 terms in the expansion of \\((m+n)^6\\) where the binomial coefficient is odd. Since each term in the expansion is odd (as both \\(m^{6-k}\\) and \\(n^k\\) are odd), the number of odd terms in the expansion is 4.\n\nTherefore, the answer is:\nAnswer: A"}
+{"idx": 40, "gold": "B", "pred": "B", "correct": true, "n_tokens": 9, "wall_s": 0.6346650123596191, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 41, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.30550479888916016, "subject": "moral_disputes", "output": "Answer: A"}
+{"idx": 42, "gold": "A", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.3065774440765381, "subject": "virology", "output": "Answer: D"}
+{"idx": 43, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.4090123176574707, "subject": "professional_medicine", "output": "Answer: B"}
+{"idx": 44, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.30313777923583984, "subject": "college_biology", "output": "Answer: A"}
+{"idx": 45, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3354942798614502, "subject": "professional_psychology", "output": "Answer: B"}
+{"idx": 46, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.33410143852233887, "subject": "sociology", "output": "Answer: A"}
+{"idx": 47, "gold": "A", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.3001589775085449, "subject": "virology", "output": "Answer: C"}
+{"idx": 48, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.31530141830444336, "subject": "high_school_macroeconomics", "output": "Answer: C"}
+{"idx": 49, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3080575466156006, "subject": "high_school_government_and_politics", "output": "Answer: A"}
+{"idx": 50, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.30225229263305664, "subject": "security_studies", "output": "Answer: C"}
+{"idx": 51, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.31185054779052734, "subject": "human_aging", "output": "Answer: C"}
+{"idx": 52, "gold": "C", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.3295719623565674, "subject": "high_school_chemistry", "output": "Answer: A"}
+{"idx": 53, "gold": "A", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3040475845336914, "subject": "nutrition", "output": "Answer: B"}
+{"idx": 54, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.2976512908935547, "subject": "college_medicine", "output": "Answer: D"}
+{"idx": 55, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3100454807281494, "subject": "philosophy", "output": "Answer: B"}
+{"idx": 56, "gold": "A", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.3018226623535156, "subject": "high_school_chemistry", "output": "Answer: C"}
+{"idx": 57, "gold": "D", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6336162090301514, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 58, "gold": "D", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.4496634006500244, "subject": "high_school_european_history", "output": "Answer: A"}
+{"idx": 59, "gold": "A", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.30458760261535645, "subject": "machine_learning", "output": "Answer: C"}
+{"idx": 60, "gold": "D", "pred": "C", "correct": false, "n_tokens": 9, "wall_s": 0.6420192718505859, "subject": "moral_scenarios", "output": "Answer: C. Not wrong, Wrong"}
+{"idx": 61, "gold": "D", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.298234224319458, "subject": "world_religions", "output": "Answer: A"}
+{"idx": 62, "gold": "B", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.314075231552124, "subject": "high_school_macroeconomics", "output": "Answer: A"}
+{"idx": 63, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.2993009090423584, "subject": "conceptual_physics", "output": "Answer: B"}
+{"idx": 64, "gold": "C", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.2630167007446289, "subject": "electrical_engineering", "output": "Answer: A"}
+{"idx": 65, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3068058490753174, "subject": "medical_genetics", "output": "Answer: A"}
+{"idx": 66, "gold": "C", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.620013952255249, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 67, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.4879884719848633, "subject": "high_school_world_history", "output": "Answer: C"}
+{"idx": 68, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.30814647674560547, "subject": "marketing", "output": "Answer: D"}
+{"idx": 69, "gold": "A", "pred": "A", "correct": true, "n_tokens": 254, "wall_s": 15.563508987426758, "subject": "high_school_physics", "output": "To determine the time it takes for the car to cover 200 meters, we can use the kinematic equation for uniformly accelerated motion:\n\n\\[ s = ut + \\frac{1}{2}at^2 \\]\n\nwhere:\n- \\( s \\) is the distance (200 m)\n- \\( u \\) is the initial velocity (0 m/s, since the car starts from rest)\n- \\( a \\) is the acceleration (5 m/s\u00b2)\n- \\( t \\) is the time in seconds\n\nPlugging in the known values:\n\n\\[ 200 = 0 \\cdot t + \\frac{1}{2} \\cdot 5 \\cdot t^2 \\]\n\\[ 200 = \\frac{5}{2} t^2 \\]\n\\[ 200 = 2.5 t^2 \\]\n\\[ t^2 = \\frac{200}{2.5} \\]\n\\[ t^2 = 80 \\]\n\\[ t = \\sqrt{80} \\]\n\\[ t \\approx 8.94 \\]\n\nSince none of the provided options match exactly, we should consider rounding errors or approximations. The closest option to 8.94 seconds is 9.0 seconds.\n\nAnswer: A"}
+{"idx": 70, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3113563060760498, "subject": "high_school_psychology", "output": "Answer: D"}
+{"idx": 71, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.30159664154052734, "subject": "world_religions", "output": "Answer: A"}
+{"idx": 72, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.43225908279418945, "subject": "professional_medicine", "output": "Answer: A"}
+{"idx": 73, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3087751865386963, "subject": "high_school_geography", "output": "Answer: D"}
+{"idx": 74, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3040945529937744, "subject": "moral_disputes", "output": "Answer: A"}
+{"idx": 75, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.32872486114501953, "subject": "elementary_mathematics", "output": "Answer: C"}
+{"idx": 76, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.31450676918029785, "subject": "miscellaneous", "output": "Answer: A"}
+{"idx": 77, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.3063530921936035, "subject": "prehistory", "output": "Answer: C"}
+{"idx": 78, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3249783515930176, "subject": "elementary_mathematics", "output": "Answer: A"}
+{"idx": 79, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3363368511199951, "subject": "college_physics", "output": "Answer: B"}
+{"idx": 80, "gold": "C", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.30904412269592285, "subject": "astronomy", "output": "Answer: A"}
+{"idx": 81, "gold": "A", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3102126121520996, "subject": "professional_psychology", "output": "Answer: B"}
+{"idx": 82, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3074307441711426, "subject": "miscellaneous", "output": "Answer: B"}
+{"idx": 83, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.35953736305236816, "subject": "professional_medicine", "output": "Answer: D"}
+{"idx": 84, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.29720187187194824, "subject": "professional_psychology", "output": "Answer: B"}
+{"idx": 85, "gold": "A", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.34661293029785156, "subject": "college_medicine", "output": "Answer: C"}
+{"idx": 86, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3048520088195801, "subject": "human_aging", "output": "Answer: B"}
+{"idx": 87, "gold": "C", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.3488731384277344, "subject": "professional_law", "output": "Answer: A"}
+{"idx": 88, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.32807064056396484, "subject": "nutrition", "output": "Answer: B"}
+{"idx": 89, "gold": "C", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6281437873840332, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 90, "gold": "D", "pred": "C", "correct": false, "n_tokens": 11, "wall_s": 0.8435018062591553, "subject": "professional_law", "output": "Answer: C. The speech and debate clause."}
+{"idx": 91, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3076460361480713, "subject": "nutrition", "output": "Answer: B"}
+{"idx": 92, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3324458599090576, "subject": "sociology", "output": "Answer: D"}
+{"idx": 93, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3636019229888916, "subject": "high_school_statistics", "output": "Answer: D"}
+{"idx": 94, "gold": "A", "pred": "B", "correct": false, "n_tokens": 8, "wall_s": 0.5631835460662842, "subject": "marketing", "output": "Answer: B. An attitude."}
+{"idx": 95, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.32617664337158203, "subject": "security_studies", "output": "Answer: A"}
+{"idx": 96, "gold": "A", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.40390634536743164, "subject": "professional_law", "output": "Answer: C"}
+{"idx": 97, "gold": "A", "pred": "C", "correct": false, "n_tokens": 22, "wall_s": 1.6599133014678955, "subject": "professional_law", "output": "Answer: C. the buyer, because the mining company's interest was extinguished by the subsequent conveyance."}
+{"idx": 98, "gold": "A", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.29958176612854004, "subject": "miscellaneous", "output": "Answer: D"}
+{"idx": 99, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.34970688819885254, "subject": "high_school_psychology", "output": "Answer: B"}
+{"idx": 100, "gold": "B", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.3606398105621338, "subject": "professional_law", "output": "Answer: C"}
+{"idx": 101, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3036980628967285, "subject": "moral_disputes", "output": "Answer: B"}
+{"idx": 102, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3225419521331787, "subject": "miscellaneous", "output": "Answer: B"}
+{"idx": 103, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.30089426040649414, "subject": "philosophy", "output": "Answer: C"}
+{"idx": 104, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3292231559753418, "subject": "high_school_statistics", "output": "Answer: D"}
+{"idx": 105, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3220787048339844, "subject": "high_school_macroeconomics", "output": "Answer: B"}
+{"idx": 106, "gold": "D", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.3093841075897217, "subject": "machine_learning", "output": "Answer: A"}
+{"idx": 107, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.30373668670654297, "subject": "sociology", "output": "Answer: D"}
+{"idx": 108, "gold": "A", "pred": "A", "correct": true, "n_tokens": 8, "wall_s": 0.5884230136871338, "subject": "moral_scenarios", "output": "Answer: A. Wrong, Wrong"}
+{"idx": 109, "gold": "A", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.303743839263916, "subject": "philosophy", "output": "Answer: B"}
+{"idx": 110, "gold": "B", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.41353750228881836, "subject": "high_school_european_history", "output": "Answer: D"}
+{"idx": 111, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3155689239501953, "subject": "college_medicine", "output": "Answer: B"}
+{"idx": 112, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.31050562858581543, "subject": "professional_psychology", "output": "Answer: B"}
+{"idx": 113, "gold": "D", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.64642333984375, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 114, "gold": "B", "pred": "C", "correct": false, "n_tokens": 9, "wall_s": 0.6515729427337646, "subject": "college_computer_science", "output": "Answer: C. I and II only"}
+{"idx": 115, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3183877468109131, "subject": "conceptual_physics", "output": "Answer: A"}
+{"idx": 116, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.41536974906921387, "subject": "high_school_us_history", "output": "Answer: D"}
+{"idx": 117, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.29497671127319336, "subject": "prehistory", "output": "Answer: C"}
+{"idx": 118, "gold": "B", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.31160831451416016, "subject": "public_relations", "output": "Answer: A"}
+{"idx": 119, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3560817241668701, "subject": "professional_law", "output": "Answer: D"}
+{"idx": 120, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.2973976135253906, "subject": "world_religions", "output": "Answer: B"}
+{"idx": 121, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3043045997619629, "subject": "high_school_macroeconomics", "output": "Answer: B"}
+{"idx": 122, "gold": "B", "pred": "C", "correct": false, "n_tokens": 8, "wall_s": 0.5391085147857666, "subject": "global_facts", "output": "Answer: C. False, True"}
+{"idx": 123, "gold": "B", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.3345646858215332, "subject": "professional_psychology", "output": "Answer: D"}
+{"idx": 124, "gold": "D", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6281826496124268, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 125, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.31159281730651855, "subject": "human_sexuality", "output": "Answer: D"}
+{"idx": 126, "gold": "C", "pred": "A", "correct": false, "n_tokens": 206, "wall_s": 12.630808591842651, "subject": "elementary_mathematics", "output": "To find the price of the share of stock at the end of Friday, we need to calculate the net change over the five days and add it to the initial price.\n\nInitial price: $24.75\n\nNet changes:\n- Monday: +$2.50\n- Tuesday: -$3.25\n- Wednesday: -$0.75\n- Thursday: +$1.25\n- Friday: +$4.75\n\nNet change = $2.50 - $3.25 - $0.75 + $1.25 + $4.75\nNet change = $5.00\n\nFinal price = Initial price + Net change\nFinal price = $24.75 + $5.00\nFinal price = $29.75\n\nThe correct answer is not listed among the options provided. However, if we consider rounding errors or a mistake in the options, the closest answer would be:\n\nAnswer: C. $29.25 (assuming a minor rounding error in the options)"}
+{"idx": 127, "gold": "C", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6237905025482178, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 128, "gold": "B", "pred": "B", "correct": true, "n_tokens": 5, "wall_s": 0.4044687747955322, "subject": "professional_law", "output": "Answer: B."}
+{"idx": 129, "gold": "C", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.3033714294433594, "subject": "philosophy", "output": "Answer: D"}
+{"idx": 130, "gold": "A", "pred": "D", "correct": false, "n_tokens": 7, "wall_s": 0.4785945415496826, "subject": "high_school_physics", "output": "Answer: D. No."}
+{"idx": 131, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.29662394523620605, "subject": "high_school_psychology", "output": "Answer: D"}
+{"idx": 132, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.30596208572387695, "subject": "high_school_macroeconomics", "output": "Answer: C"}
+{"idx": 133, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.299633264541626, "subject": "marketing", "output": "Answer: A"}
+{"idx": 134, "gold": "B", "pred": "B", "correct": true, "n_tokens": 7, "wall_s": 0.46769237518310547, "subject": "business_ethics", "output": "Answer: B. Personal values"}
+{"idx": 135, "gold": "C", "pred": "A", "correct": false, "n_tokens": 14, "wall_s": 0.9377202987670898, "subject": "high_school_statistics", "output": "Answer: A. Too low, because of undercoverage bias."}
+{"idx": 136, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.33620595932006836, "subject": "high_school_biology", "output": "Answer: A"}
+{"idx": 137, "gold": "A", "pred": "A", "correct": true, "n_tokens": 67, "wall_s": 4.09225058555603, "subject": "elementary_mathematics", "output": "To solve the equation 5x \u2212 5 = \u221210, we first isolate x:\n\n5x \u2212 5 = \u221210\n5x = \u221210 + 5\n5x = \u22125\nx = \u22125 / 5\nx = \u22121\n\nSo, the correct answer is:\nAnswer: A"}
+{"idx": 138, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.2972888946533203, "subject": "logical_fallacies", "output": "Answer: C"}
+{"idx": 139, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.31690263748168945, "subject": "college_physics", "output": "Answer: B"}
+{"idx": 140, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.5843875408172607, "subject": "professional_law", "output": "Answer: A"}
+{"idx": 141, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.30173182487487793, "subject": "logical_fallacies", "output": "Answer: B"}
+{"idx": 142, "gold": "B", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.30324459075927734, "subject": "medical_genetics", "output": "Answer: C"}
+{"idx": 143, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3160083293914795, "subject": "high_school_microeconomics", "output": "Answer: D"}
+{"idx": 144, "gold": "D", "pred": "D", "correct": true, "n_tokens": 7, "wall_s": 0.5783774852752686, "subject": "professional_medicine", "output": "Answer: D. Sexual activity"}
+{"idx": 145, "gold": "B", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.31389403343200684, "subject": "college_chemistry", "output": "Answer: D"}
+{"idx": 146, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3024721145629883, "subject": "us_foreign_policy", "output": "Answer: D"}
+{"idx": 147, "gold": "D", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.29932665824890137, "subject": "jurisprudence", "output": "Answer: C"}
+{"idx": 148, "gold": "D", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.3387887477874756, "subject": "professional_psychology", "output": "Answer: C"}
+{"idx": 149, "gold": "D", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.30625033378601074, "subject": "college_medicine", "output": "Answer: A"}
+{"idx": 150, "gold": "D", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.32572126388549805, "subject": "professional_medicine", "output": "Answer: B"}
+{"idx": 151, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3071715831756592, "subject": "us_foreign_policy", "output": "Answer: D"}
+{"idx": 152, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3047909736633301, "subject": "moral_disputes", "output": "Answer: D"}
+{"idx": 153, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.36080121994018555, "subject": "professional_law", "output": "Answer: D"}
+{"idx": 154, "gold": "B", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.30799221992492676, "subject": "nutrition", "output": "Answer: D"}
+{"idx": 155, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.34084057807922363, "subject": "professional_accounting", "output": "Answer: D"}
+{"idx": 156, "gold": "D", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.33472156524658203, "subject": "international_law", "output": "Answer: C"}
+{"idx": 157, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.3112218379974365, "subject": "college_biology", "output": "Answer: C"}
+{"idx": 158, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.31314611434936523, "subject": "human_sexuality", "output": "Answer: C"}
+{"idx": 159, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3206644058227539, "subject": "professional_accounting", "output": "Answer: D"}
+{"idx": 160, "gold": "D", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.309584379196167, "subject": "electrical_engineering", "output": "Answer: C"}
+{"idx": 161, "gold": "B", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.3990004062652588, "subject": "professional_law", "output": "Answer: C"}
+{"idx": 162, "gold": "C", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6271343231201172, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 163, "gold": "D", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.31722331047058105, "subject": "anatomy", "output": "Answer: B"}
+{"idx": 164, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.30313968658447266, "subject": "high_school_psychology", "output": "Answer: C"}
+{"idx": 165, "gold": "D", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.30023646354675293, "subject": "high_school_psychology", "output": "Answer: B"}
+{"idx": 166, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3091087341308594, "subject": "management", "output": "Answer: D"}
+{"idx": 167, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.30898022651672363, "subject": "philosophy", "output": "Answer: C"}
+{"idx": 168, "gold": "C", "pred": "C", "correct": true, "n_tokens": 14, "wall_s": 0.9616153240203857, "subject": "professional_law", "output": "Answer: C. To raise and support an army and navy."}
+{"idx": 169, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.29744410514831543, "subject": "college_biology", "output": "Answer: B"}
+{"idx": 170, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.315723180770874, "subject": "astronomy", "output": "Answer: B"}
+{"idx": 171, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3171265125274658, "subject": "college_biology", "output": "Answer: D"}
+{"idx": 172, "gold": "C", "pred": "C", "correct": true, "n_tokens": 312, "wall_s": 18.923331022262573, "subject": "high_school_mathematics", "output": "To find the inverse of \\( h(x) = f(g(x)) \\), we first need to determine the expression for \\( h(x) \\).\n\nGiven:\n\\[ f(x) = 3x + 4 \\]\n\\[ g(x) = 2x - 3 \\]\n\nFirst, compute \\( g(x) \\):\n\\[ g(x) = 2x - 3 \\]\n\nNext, substitute \\( g(x) \\) into \\( f(x) \\):\n\\[ h(x) = f(g(x)) = f(2x - 3) \\]\n\nNow, substitute \\( 2x - 3 \\) into \\( f(x) \\):\n\\[ f(2x - 3) = 3(2x - 3) + 4 \\]\n\\[ = 6x - 9 + 4 \\]\n\\[ = 6x - 5 \\]\n\nSo, \\( h(x) = 6x - 5 \\).\n\nTo find the inverse of \\( h(x) \\), we need to solve for \\( x \\) in terms of \\( y \\) where \\( y = h(x) \\):\n\\[ y = 6x - 5 \\]\n\nSolve for \\( x \\):\n\\[ y + 5 = 6x \\]\n\\[ x = \\frac{y + 5}{6} \\]\n\nThus, the inverse function is:\n\\[ h^{-1}(x) = \\frac{x + 5}{6} \\]\n\nTherefore, the answer is:\nAnswer: C"}
+{"idx": 173, "gold": "C", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6199214458465576, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 174, "gold": "C", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.3373706340789795, "subject": "professional_accounting", "output": "Answer: D"}
+{"idx": 175, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3003513813018799, "subject": "marketing", "output": "Answer: A"}
+{"idx": 176, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.3005216121673584, "subject": "clinical_knowledge", "output": "Answer: C"}
+{"idx": 177, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.31594324111938477, "subject": "prehistory", "output": "Answer: A"}
+{"idx": 178, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.30176544189453125, "subject": "philosophy", "output": "Answer: C"}
+{"idx": 179, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.3553009033203125, "subject": "professional_law", "output": "Answer: D"}
+{"idx": 180, "gold": "C", "pred": "A", "correct": false, "n_tokens": 4, "wall_s": 0.42304086685180664, "subject": "professional_law", "output": "Answer: A"}
+{"idx": 181, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.40548062324523926, "subject": "high_school_us_history", "output": "Answer: D"}
+{"idx": 182, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.305419921875, "subject": "philosophy", "output": "Answer: C"}
+{"idx": 183, "gold": "C", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6238620281219482, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 184, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3033742904663086, "subject": "high_school_microeconomics", "output": "Answer: B"}
+{"idx": 185, "gold": "B", "pred": "B", "correct": true, "n_tokens": 4, "wall_s": 0.3473775386810303, "subject": "high_school_government_and_politics", "output": "Answer: B"}
+{"idx": 186, "gold": "D", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.3042948246002197, "subject": "high_school_chemistry", "output": "Answer: C"}
+{"idx": 187, "gold": "B", "pred": "D", "correct": false, "n_tokens": 4, "wall_s": 0.2989492416381836, "subject": "human_aging", "output": "Answer: D"}
+{"idx": 188, "gold": "D", "pred": "B", "correct": false, "n_tokens": 9, "wall_s": 0.6281816959381104, "subject": "moral_scenarios", "output": "Answer: B. Wrong, Not wrong"}
+{"idx": 189, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.33193421363830566, "subject": "high_school_biology", "output": "Answer: A"}
+{"idx": 190, "gold": "D", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3048689365386963, "subject": "college_computer_science", "output": "Answer: B"}
+{"idx": 191, "gold": "A", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3202979564666748, "subject": "high_school_macroeconomics", "output": "Answer: B"}
+{"idx": 192, "gold": "C", "pred": "B", "correct": false, "n_tokens": 4, "wall_s": 0.3591582775115967, "subject": "professional_medicine", "output": "Answer: B"}
+{"idx": 193, "gold": "C", "pred": "C", "correct": true, "n_tokens": 4, "wall_s": 0.3270251750946045, "subject": "high_school_computer_science", "output": "Answer: C"}
+{"idx": 194, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.30857419967651367, "subject": "high_school_psychology", "output": "Answer: D"}
+{"idx": 195, "gold": "D", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.3093147277832031, "subject": "professional_psychology", "output": "Answer: C"}
+{"idx": 196, "gold": "D", "pred": "D", "correct": true, "n_tokens": 4, "wall_s": 0.32752084732055664, "subject": "formal_logic", "output": "Answer: D"}
+{"idx": 197, "gold": "C", "pred": "C", "correct": true, "n_tokens": 9, "wall_s": 0.6305191516876221, "subject": "moral_scenarios", "output": "Answer: C. Not wrong, Wrong"}
+{"idx": 198, "gold": "A", "pred": "A", "correct": true, "n_tokens": 4, "wall_s": 0.3045656681060791, "subject": "philosophy", "output": "Answer: A"}
+{"idx": 199, "gold": "A", "pred": "C", "correct": false, "n_tokens": 4, "wall_s": 0.30078721046447754, "subject": "abstract_algebra", "output": "Answer: C"}

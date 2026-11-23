@@ -1,0 +1,35 @@
+variant,task,accuracy_pct,tokens_per_sec,peak_mem_gb,n_questions,runtime,decode_tok_s,weights_gb,kv_cache_gb
+fp16,gsm8k,86.5,19.9,7.28,200,transformers+bnb (Phase 1),,,
+fp16,mmlu,65.5,18.2,7.34,200,transformers+bnb (Phase 1),,,
+bnb_8bit,gsm8k,90.0,8.9,4.28,200,transformers+bnb (Phase 1),,,
+bnb_8bit,mmlu,65.0,8.8,4.36,200,transformers+bnb (Phase 1),,,
+bnb_nf4,gsm8k,85.0,15.2,5.48,200,transformers+bnb (Phase 1),,,
+bnb_nf4,mmlu,58.0,13.6,5.48,200,transformers+bnb (Phase 1),,,
+gguf_f16,gsm8k,89.0,28.9,7.87,200,llama.cpp,29.2,7.146,0.5
+gguf_f16,mmlu,65.5,24.8,7.87,200,llama.cpp,27.9,7.146,0.5
+gguf_f16_kv4,gsm8k,87.5,28.6,7.513,200,llama.cpp,28.8,7.146,0.141
+gguf_f16_kv4,mmlu,61.0,25.7,7.513,200,llama.cpp,27.8,7.146,0.141
+gguf_f16_kv8,gsm8k,88.0,28.5,7.638,200,llama.cpp,28.7,7.146,0.266
+gguf_f16_kv8,mmlu,65.0,25.4,7.638,200,llama.cpp,27.9,7.146,0.266
+gguf_mxfp4,gsm8k,83.5,50.5,2.903,200,llama.cpp,51.4,2.203,0.5
+gguf_mxfp4,mmlu,58.0,39.6,2.903,200,llama.cpp,51.6,2.203,0.5
+gguf_nvfp4,gsm8k,86.5,66.0,2.997,200,llama.cpp,68.0,2.296,0.5
+gguf_nvfp4,mmlu,58.5,38.5,2.997,200,llama.cpp,69.4,2.296,0.5
+gguf_q4_k_m,gsm8k,90.5,59.5,3.018,200,llama.cpp,60.9,2.315,0.5
+gguf_q4_k_m,mmlu,63.0,42.6,3.018,200,llama.cpp,63.5,2.315,0.5
+gguf_q4_k_m_kv4,gsm8k,90.0,55.2,2.663,200,llama.cpp,56.0,2.315,0.141
+gguf_q4_k_m_kv4,mmlu,65.0,40.9,2.663,200,llama.cpp,61.3,2.315,0.141
+gguf_q4_k_m_kv8,gsm8k,90.0,55.6,2.788,200,llama.cpp,56.6,2.315,0.266
+gguf_q4_k_m_kv8,mmlu,62.5,41.7,2.788,200,llama.cpp,61.3,2.315,0.266
+gguf_q8_0,gsm8k,90.0,46.9,4.497,200,llama.cpp,47.6,3.796,0.5
+gguf_q8_0,mmlu,64.5,37.8,4.497,200,llama.cpp,47.9,3.796,0.5
+gguf_q8_0_kv4,gsm8k,89.5,44.9,4.141,200,llama.cpp,45.4,3.796,0.141
+gguf_q8_0_kv4,mmlu,62.5,38.2,4.141,200,llama.cpp,46.6,3.796,0.141
+gguf_q8_0_kv8,gsm8k,90.5,44.8,4.266,200,llama.cpp,45.4,3.796,0.266
+gguf_q8_0_kv8,mmlu,65.5,35.5,4.266,200,llama.cpp,46.5,3.796,0.266
+nf4_attn_only,gsm8k,85.0,17.6,7.374,200,transformers+bnb,,,
+nf4_attn_only,mmlu,64.5,16.5,7.374,200,transformers+bnb,,,
+nf4_full,gsm8k,85.0,16.3,4.059,200,transformers+bnb,,,
+nf4_full,mmlu,58.0,14.6,4.059,200,transformers+bnb,,,
+nf4_mlp_only,gsm8k,86.5,17.7,5.166,200,transformers+bnb,,,
+nf4_mlp_only,mmlu,55.0,16.3,5.166,200,transformers+bnb,,,

@@ -1,0 +1,13 @@
+{
+ "runtime": "transformers+bnb",
+ "weights": "nf4_attn_only",
+ "kv": "f16",
+ "quantized_layers": {
+  "attn_4bit": 64,
+  "mlp_4bit": 0,
+  "attn_fp16": 0,
+  "mlp_fp16": 64
+ },
+ "allocated_after_load_gb": 7.186,
+ "peak_mem_gb": 7.374
+}

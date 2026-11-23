@@ -1,0 +1,62 @@
+{
+ "fp16": {
+  "gsm8k": {
+   "median_ttft_ms": 73.1,
+   "p90_ttft_ms": 87.4,
+   "median_prompt_tokens": 89.0
+  },
+  "mmlu": {
+   "median_ttft_ms": 76.7,
+   "p90_ttft_ms": 207.2,
+   "median_prompt_tokens": 110.0
+  }
+ },
+ "bnb_8bit": {
+  "gsm8k": {
+   "median_ttft_ms": 139.9,
+   "p90_ttft_ms": 151.9,
+   "median_prompt_tokens": 89.0
+  },
+  "mmlu": {
+   "median_ttft_ms": 148.9,
+   "p90_ttft_ms": 213.4,
+   "median_prompt_tokens": 110.0
+  }
+ },
+ "bnb_nf4": {
+  "gsm8k": {
+   "median_ttft_ms": 121.3,
+   "p90_ttft_ms": 133.7,
+   "median_prompt_tokens": 89.0
+  },
+  "mmlu": {
+   "median_ttft_ms": 131.8,
+   "p90_ttft_ms": 275.5,
+   "median_prompt_tokens": 110.0
+  }
+ },
+ "nf4_attn_only": {
+  "gsm8k": {
+   "median_ttft_ms": 87.6,
+   "p90_ttft_ms": 101.3,
+   "median_prompt_tokens": 89.0
+  },
+  "mmlu": {
+   "median_ttft_ms": 93.1,
+   "p90_ttft_ms": 245.1,
+   "median_prompt_tokens": 110.0
+  }
+ },
+ "nf4_mlp_only": {
+  "gsm8k": {
+   "median_ttft_ms": 109.5,
+   "p90_ttft_ms": 127.5,
+   "median_prompt_tokens": 89.0
+  },
+  "mmlu": {
+   "median_ttft_ms": 122.1,
+   "p90_ttft_ms": 277.5,
+   "median_prompt_tokens": 110.0
+  }
+ }
+}

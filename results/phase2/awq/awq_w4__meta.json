@@ -1,0 +1,8 @@
+{
+ "peak_mem_gb": 2.854,
+ "runtime": "transformers+autoawq",
+ "weights": "AWQ W4 g128 (GEMM)",
+ "kv": "f16",
+ "transformers": "4.51.3",
+ "load_time_s": 9.9
+}
